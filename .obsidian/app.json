@@ -1,5 +1,8 @@
 {
   "showFrontmatter": true,
   "vimMode": true,
-  "promptDelete": false
+  "promptDelete": true,
+  "showLineNumber": true,
+  "showUnsupportedFiles": true,
+  "useTab": false
 }
