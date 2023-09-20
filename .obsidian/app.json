@@ -4,5 +4,6 @@
   "promptDelete": true,
   "showLineNumber": true,
   "showUnsupportedFiles": true,
-  "useTab": false
+  "useTab": false,
+  "readableLineLength": false
 }
